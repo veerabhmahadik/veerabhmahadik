@@ -31,11 +31,9 @@ Here's a selection of recent open-source projects I've contributed to:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="45" height="45"/>
 <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width = "50" height = "50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013-2019_logo.svg/512px-Microsoft_Excel_2013-2019_logo.svg.png" width="50" height="50"/> 
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width = "50" height = "50" />         
 
-
+<img src=" https://localhop-prod.s3.amazonaws.com/uploads/3900380014633484b49de8a15a0bd295_Microsoft_Excel-Logo.wine.png" width = "50" height = "50" />
 
 
 

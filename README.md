@@ -33,7 +33,8 @@ Here's a selection of recent open-source projects I've contributed to:
 
 
 <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" width="50" height="50" />
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datacamp.com%2Fblog%2Fall-about-power-bi&psig=AOvVaw1lopa5gf7RVFzRh79I9gDt&ust=1718757002530000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC0o_zy44YDFQAAAAAdAAAAABAE" width="50" height="50" />
+<img src="https://https://1000logos.net/power-bi-logo//powerbi-logo.png" alt="Power BI" width="38" height="38" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="38" height="38" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/studio3t/studio3t-original.svg" width="38" height="38" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nosql/nosql-original.svg" width="38" height="38" />

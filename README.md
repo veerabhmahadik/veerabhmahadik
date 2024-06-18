@@ -32,7 +32,7 @@ Here's a selection of recent open-source projects I've contributed to:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="45" height="45"/>
 
 
-<img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" width="38" height="38" />
+<img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-plain.svg" width="38" height="38" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="38" height="38" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/studio3t/studio3t-original.svg" width="38" height="38" />

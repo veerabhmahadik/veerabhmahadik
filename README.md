@@ -32,6 +32,7 @@ Here's a selection of recent open-source projects I've contributed to:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="45" height="45"/>
 <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width = "50" height = "50" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftexcel.svg" width="50" height="50" />
           
 
 

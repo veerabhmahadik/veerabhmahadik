@@ -30,9 +30,15 @@ Here's a selection of recent open-source projects I've contributed to:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="45" height="45"/>
-<img src="https://www.cdnlogo.com/logos/t/16/tableau.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="38" height="38" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-plain.svg" width="38" height="38" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="38" height="38" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/studio3t/studio3t-original.svg" width="38" height="38" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nosql/nosql-original.svg" width="38" height="38" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="38" height="38" />
+
 
 <!-- Add more tools and technologies as needed -->
 

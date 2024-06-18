@@ -33,8 +33,6 @@ Here's a selection of recent open-source projects I've contributed to:
 <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width = "50" height = "50" />         
 
-<img src=" https://localhop-prod.s3.amazonaws.com/uploads/3900380014633484b49de8a15a0bd295_Microsoft_Excel-Logo.wine.png" width = "50" height = "50" />
-
 
 
 <!-- Add more tools and technologies as needed -->

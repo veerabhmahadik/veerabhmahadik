@@ -40,16 +40,6 @@ Here's a selection of recent open-source projects I've contributed to:
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GitHub Profile</title>
-<style>
-  .logo-container {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-</style>
 </head>
 <body>
   <div class="logo-container">

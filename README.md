@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnExcWNodTlrczB6YnZzcjlkM3BiNXp1cXpwZXVkNGxpOGF1ZWZsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZuHBFpm/giphy.gif"> </p>
+<img src="https://cdn.prod.website-files.com/5c19020c997c25514d17d86f/60c0d9460c02947666c0d70c_Data%20report.gif"> </p>
 
 # <p align="center">Hi, I'm Veerabh 👋. I am a Data Analyst.</p>
 

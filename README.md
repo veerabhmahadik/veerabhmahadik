@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.prod.website-files.com/5c19020c997c25514d17d86f/60c0d9460c02947666c0d70c_Data%20report.gif" width="400"> </p>
+<img src="https://resumeworded.com/skills-and-keywords/img/data-analyst.jpeg" width="400"> </p>
 
 # <p align="center">Hi, I'm Veerabh 👋. I am a Data Analyst.</p>
 

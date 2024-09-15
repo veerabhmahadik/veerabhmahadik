@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Description" width="400"> </p>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWh3amp3N2NocDBqZm1wOWVhMjJ4NGh3cmRrdm1jdnc4enN3czNkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.webp" alt="Description" width="400"> </p>
 
 
 # <p align="center">Hi, I'm Veerabh 👋. I am a Data Analyst.</p>
